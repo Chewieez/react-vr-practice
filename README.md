@@ -1,5 +1,5 @@
 # react-vr-practice
-Project bootstrapped with React-vr to learn  
+Project bootstrapped with React-vr to learn vr development using React
 
 ## To run locally
 Clone Repo
